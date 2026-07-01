@@ -22,7 +22,7 @@ Application web de pré-comptabilité développée avec Django.
 | `dashboard/` | Statistiques, KPIs |
 | `notifications/` | Alertes, emails, notifications internes |
 | `audit/` | Historique des actions |
-| `billing/` | Abonnements SaaS, paiements |
+| `billing/` | 
 | `integrations/` | API externes, logiciels comptables |
 | `support/` | Tickets support, assistance |
 
